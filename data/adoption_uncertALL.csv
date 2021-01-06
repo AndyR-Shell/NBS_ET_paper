@@ -1,0 +1,38 @@
+NBS_desc,NBS_subgroup,NBS_short_name,time_at_threat,function_type,years_to_max,year_start,year_50,saturation
+Alley cropping,Agroforestry,Agro_Alley,0,lognormal,12,2023,2040,50
+Avoided woodfuel,Avoided woodfuel,Woodfuel,0,constant,0,2022,2039,100
+Better cropping,Better cropping,Crops,0,constant,0,2026,2047,50
+Biochar,Biochar,Biochar,0,constant,0,2025,2048,100
+Boreal peatland loss,Protect peatland,REDDpeat_Bor,30,pulse,0,2021,2027,100
+Boreal peatland restoration,Peatland restoration,Peatland_Bor,0,constant,0,2022,2048,20
+Brazilian forest fire management,Fire management,Fire_Braz,100,pulse,0,2024,2039,100
+Farmer natural regeneration,Agroforestry,Agro_NatRegen,0,lognormal,15,2023,2040,50
+Global savannahs,Fire management,Fire_Sav,100,pulse,0,2024,2039,100
+Improved cattle breeding,Livestock management,Livestock_Breed,0,constant,0,2024,2042,100
+Improved cattle feed,Livestock management,Livestock_Feed,0,constant,0,2024,2042,100
+Legumes in pastures,Legumes in pastures,Legumes,0,constant,0,2024,2039,100
+Mangrove restoration,Mangrove restoration,Mangrove,0,lognormal,19,2024,2052,100
+Natural forest loss,Protect forest,REDD_Nat,20,pulse,0,2021,2028,100
+Nutrient management,Nutrient management,CropNut,0,constant,0,2028,2059,100
+Optimal grazing,Optimal grazing,Grazing,0,constant,0,2026,2049,100
+Protect mangrove,Protect mangrove,REDDmang,20,pulse,0,2021,2026.5,68
+Protect salt marsh,Protect salt marsh,REDDsalt,50,pulse,0,2021,2026.5,64
+Protect seagrass,Protect seagrass,REDDseag,30,pulse,0,2021,2026.5,67
+Rice management,Rice management,Rice,0,constant,0,2024,2041,100
+Salt marsh restoration,Salt marsh restoration,Salt,0,lognormal,13,2024,2052,57
+Seagrass restoration,Seagrass restoration,Seagrass,0,lognormal,8,2024,2052,51
+Subsistence ag forest loss,Protect forest,REDD_Sub,20,pulse,0,2021,2028,100
+Temperate boreal forest management,Natural forest management,NatFor_TempBor,0,constant,0,2027,2059,50
+Temperate boreal plantations,Improved plantations,IFM_TempBor,0,constant,0,2022,2034,65
+Temperate forest fire management,Fire management,Fire_Temp,100,pulse,0,2024,2039,100
+Temperate grassland loss,Protect grassland,REDDgrass_Temp,30,pulse,0,2022,2028,100
+Temperate peatland loss,Protect peatland,REDDpeat_Temp,30,pulse,0,2021,2027,100
+Temperate peatland restoration,Peatland restoration,Peatland_Temp,0,constant,0,2022,2048,20
+Temperate reforestation,Reforestation,Refo_Temp,0,lognormal,14,2023,2059,30
+Tropical peatland loss,Protect peatland,REDDpeat_Trop,30,pulse,0,2021,2027,89
+Tropical peatland restoration,Peatland restoration,Peatland_Trop,0,constant,0,2022,2048,20
+Tropical subtropical forest management,Natural forest management,NatFor_Trop,0,constant,0,2027,2059,50
+Tropical subtropical grassland loss,Protect grassland,REDDgrass_Trop,30,pulse,0,2022,2028,100
+Tropical subtropical plantations,Improved plantations,IFM_Trop,0,constant,0,2022,2034,65
+Tropical subtropical reforestation,Reforestation,Refo_Trop,0,lognormal,10,2023,2059,25
+Windbreaks,Agroforestry,Agro_Wind,0,lognormal,12,2023,2040,50

@@ -1,0 +1,2 @@
+scenario,starttime,endtime,phase2,endtime_phase1,phase3,endtime_phase2,use_average_Erintensities
+baseALL,2000,2200,FALSE,,FALSE,,TRUE

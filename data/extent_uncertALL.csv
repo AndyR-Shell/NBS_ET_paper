@@ -1,0 +1,38 @@
+NBS_desc,NBS_subgroup,NBS_group,NBS_short_name,extent_rate,extent,global_extent_mn,global_extent,global_extent_mx,global_ter_mn,global_ter,global_ter_mx,prop_100,ters_100,prop_10,ters_10,intensity_type,ter_intensity_mn,ter_intensity,ter_intensity_mx,calc_ter_intensity,restore_type,active_remove,prop_co2,prop_ch4,prop_n2o
+Alley cropping,Agroforestry,Forest,Agro_Alley,0,140,48.8,140,209,,616,,30,184.8,0,0,average,2.088734388,4.397335554,7.988492923,4.4,Manage,1,1,0,0
+Avoided woodfuel,Avoided woodfuel,Forest,Woodfuel,0,280,224,280,336,326,367,407,30,110.1,0,0,average,,1.465778518,,1.310714286,Manage,0,1,0,0
+Better cropping,Better cropping,Agriculture,Crops,0,352,281.6,352,422.4,310,413,516,90,371.7,60,247.8,average,,1.172622814,,1.173295455,Manage,1,1,0,0
+Biochar,Biochar,Agriculture,Biochar,0,835,469.5,835,1035.5,642,1102,1455,30,330.6,0,0,average,1.24591174,1.319200666,1.539067444,1.319760479,Manage,1,1,0,0
+Boreal peatland loss,Protect peatland,Wetland,REDDpeat_Bor,1,0.07,0.056,0.07,0.084,,15,,90,13.5,60,9,total,,216.9352206,,NA,Protect,0,1,0,0
+Boreal peatland restoration,Peatland restoration,Wetland,Peatland_Bor,0,9,7.2,9,10.8,,51,,30,15.3,0,0,average,,5.423380516,,5.666666667,Restore,0,1,0,0
+Brazilian forest fire management,Fire management,Forest,Fire_Braz,1,0.54,0.432,0.54,0.648,17,68,117,60,40.8,0,0,total,,125.8370858,,NA,Manage,0,1,0,0
+Farmer natural regeneration,Agroforestry,Forest,Agro_NatRegen,0,150,35,150,388,,220,,60,132,0,0,average,0.806178185,1.465778518,2.784979184,1.466666667,Manage,1,1,0,0
+Global savannahs,Fire management,Forest,Fire_Sav,1,11.07,8.85661146,11.07,13.28491719,50,125,200,60,75,0,0,total,6.9359,11.291,15.6461,NA,Manage,0,1,0,0
+Improved cattle breeding,Livestock management,Agriculture,Livestock_Breed,0,140,112,140,168,75,200,214,30,60,0,0,average,,1.465778518,,1.428571429,Manage,0,0,1,0
+Improved cattle feed,Livestock management,Agriculture,Livestock_Feed,0,140,112,140,168,35,680,1014,30,204,0,0,average,,4.763780183,,4.857142857,Manage,0,0,1,0
+Legumes in pastures,Legumes in pastures,Grassland,Legumes,0,72,61,72,680,14,147,1500,90,132.3,60,88.2,average,0.952756037,2.052089925,3.078134888,2.041666667,Manage,1,1,0,0
+Mangrove restoration,Mangrove restoration,Blue,Mangrove,0,11,9,11,13,,596,,30,178.8,0,0,average,43.97335554,55.69958368,67.42581182,54.18181818,Restore,1,1,0,0
+Natural forest loss,Protect forest,Forest,REDD_Nat,1,5.93,4.744,5.93,7.116,,2452,,90,2206.8,60,1471.2,total,,413.349542,,NA,Protect,0,1,0,0
+Nutrient management,Nutrient management,Agriculture,CropNut,0,880,652,880,1160,399,706,959,90,635.4,90,635.4,average,0.531344713,0.793352623,0.971078268,0.802272727,Manage,0,0,0,1
+Optimal grazing,Optimal grazing,Grassland,Grazing,0,712,569.6,712,854.4,148,148,699,60,88.8,30,44.4,average,,0.219866778,,0.207865169,Manage,1,1,0,0
+Protect mangrove,Protect mangrove,Blue,REDDmang,1,0.1,0.04,0.1,0.16,,130,,90,117,60,78,total,982.071607,1289.372073,1597.698585,NA,Protect,0,1,0,0
+Protect salt marsh,Protect salt marsh,Blue,REDDsalt,1,0.08,0.04,0.08,0.12,,42,,90,37.8,60,25.2,total,190.5512073,523.209642,857.480433,NA,Protect,0,1,0,0
+Protect seagrass,Protect seagrass,Blue,REDDseag,1,0.45,0.12,0.45,0.78,,132,,90,118.8,60,79.2,total,98.94004996,292.9724813,487.3713572,NA,Protect,0,1,0,0
+Rice management,Rice management,Agriculture,Rice,0,163,130.4,163,195.6,227,265,319,60,159,30,79.5,average,,1.61235637,,1.625766871,Manage,0,0,0.581081081,0.418918919
+Salt marsh restoration,Salt marsh restoration,Blue,Salt,0,2,0.2,2,3.2,,36,,60,21.6,0,0,average,12.56905079,21.14385512,29.5720816,18,Restore,1,1,0,0
+Seagrass restoration,Seagrass restoration,Blue,Seagrass,0,17,8.3,17,25.4,,209,,0,0,0,0,average,6.852514571,12.4591174,17.91914238,12.29411765,Restore,1,1,0,0
+Subsistence ag forest loss,Protect forest,Forest,REDD_Sub,1,3.04,2.432,3.04,3.648,,1151,,60,690.6,30,345.3,total,,378.5006578,,NA,Protect,0,1,0,0
+Temperate boreal forest management,Natural forest management,Forest,NatFor_TempBor,0,1369,1095.2,1369,1642.8,,690,,60,414,30,207,average,,0.513022481,,0.504017531,Manage,1,1,0,0
+Temperate boreal plantations,Improved plantations,Forest,IFM_TempBor,0,176,140.8,176,211.2,,304,,60,182.4,0,0,average,,1.722289759,,1.727272727,Manage,1,1,0,0
+Temperate forest fire management,Fire management,Forest,Fire_Temp,1,0.46,0.368,0.46,0.552,7,19,182,60,11.4,0,0,total,,40.78528726,,NA,Manage,0,1,0,0
+Temperate grassland loss,Protect grassland,Grassland,REDDgrass_Temp,1,0.7,0.56,0.7,0.84,,47,,30,14.1,0,0,total,,67.42581182,,NA,Protect,0,1,0,0
+Temperate peatland loss,Protect peatland,Wetland,REDDpeat_Temp,1,0.14,0.112,0.14,0.168,,75,,90,67.5,60,45,total,,535.3023147,,NA,Protect,0,1,0,0
+Temperate peatland restoration,Peatland restoration,Wetland,Peatland_Temp,0,20,16,20,24,,267,,30,80.1,0,0,average,,13.37522898,,13.35,Restore,0,1,0,0
+Temperate reforestation,Reforestation,Forest,Refo_Temp,0,206,164.8,206,247.2,,2100,,30,630,0,0,average,,10.33373855,,10.19417476,Restore,1,1,0,0
+Tropical peatland loss,Protect peatland,Wetland,REDDpeat_Trop,1,0.57,0.456,0.57,0.684,,664,,90,597.6,60,398.4,total,,1163.608276,,NA,Protect,0,1,0,0
+Tropical peatland restoration,Peatland restoration,Wetland,Peatland_Trop,0,17,13.6,17,20.4,,497,,60,298.2,30,149.1,average,,29.09570358,,29.23529412,Restore,0,1,0,0
+Tropical subtropical forest management,Natural forest management,Forest,NatFor_Trop,0,545,436,545,654,,780,,60,468,30,234,average,,1.429134055,,1.431192661,Manage,1,1,0,0
+Tropical subtropical grassland loss,Protect grassland,Grassland,REDDgrass_Trop,1,1,0.8,1,1.2,,69,,30,20.7,0,0,total,,68.89159034,,NA,Protect,0,1,0,0
+Tropical subtropical plantations,Improved plantations,Forest,IFM_Trop,0,81,64.8,81,97.2,,139,,60,83.4,0,0,average,,1.722289759,,1.716049383,Manage,1,1,0,0
+Tropical subtropical reforestation,Reforestation,Forest,Refo_Trop,0,472,377.6,472,566.4,,8025,,30,2407.5,0,0,average,,17.25954205,,17.00211864,Restore,1,1,0,0
+Windbreaks,Agroforestry,Forest,Agro_Wind,0,318,70.4,318,400,,204,,60,122.4,0,0,average,0.256511241,0.732889259,0.842822648,0.641509434,Manage,1,1,0,0
